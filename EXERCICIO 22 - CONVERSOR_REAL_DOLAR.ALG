@@ -7,7 +7,7 @@ inicio
       EscrevaL("Qual o valor em R$? ")
       Leia(R)
       D <- R/5
-      EscrevaL("O valor convertido em US$ é: ", D:5:2)
+      EscrevaL("O valor convertido em US$ Ã©: ", D:5:2)
       C <- C + 1
    FimEnquanto
 fimalgoritmo
