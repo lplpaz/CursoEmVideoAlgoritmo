@@ -1,0 +1,12 @@
+algoritmo "PARIMPAR"
+var
+   N: Inteiro
+inicio
+      Escreva("Digite um número qualquer: ")
+      Leia(N)
+      Se (N % 2 = 0) entao
+         EscrevaL("O número ", N, "e PAR")
+      senao
+           EscrevaL("O número ", N,"e IMPAR")
+      FimSe
+fimalgoritmo
