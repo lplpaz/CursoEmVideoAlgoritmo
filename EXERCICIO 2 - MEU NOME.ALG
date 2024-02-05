@@ -6,7 +6,7 @@ var
 Inicio
       Escreva ("Digite o nome mais lindo do mundo: ")
       Leia (Nome)
-      Escreva ("Ol·, ", Nome)
-      Escreva (". Realmente È o mais lindo e mais importante da histÛria da humanidade, n„o È mesmo?")
+      Escreva ("Ol√°, ", Nome)
+      Escreva (". Realmente √© o mais lindo nome, n√£o √© mesmo?")
       
 FimAlgoritmo
